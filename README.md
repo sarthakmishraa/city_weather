@@ -2,7 +2,7 @@
 
 ## Access the project on this link
 
-See [City Weather by Sarthak Mishra](https://current-city-weather.netlify.app/).
+See [City Weather by Sarthak Mishra](https://current-city-weather.netlify.app/)(target="_blank").
 
 # Weather Tracking Web Application
 
