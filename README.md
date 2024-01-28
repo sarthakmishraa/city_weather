@@ -8,6 +8,13 @@ See [City Weather by Sarthak Mishra](https://current-city-weather.netlify.app/).
 
 Build your personalized weather tracking experience with this web application created using Vue.js, Tailwind CSS, and the OpenWeatherMap API. Seamlessly check the current weather conditions for any city with an intuitive and user-friendly interface.
 
+## Snippets
+
+![Home](https://github.com/sarthakmishraa/city_weather/assets/56118819/46d13754-6f4f-4260-8ed4-063ef2348e25)
+
+![WeatherPage](https://github.com/sarthakmishraa/city_weather/assets/56118819/8929e5df-09cd-4267-aec9-ea849ff95f0b)
+
+
 ## Key Features
 
 - **City Weather Cards:** Add weather cards for specific cities directly to your home screen, tailoring your weather tracking experience to your preferences.
