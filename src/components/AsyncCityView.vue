@@ -1,5 +1,9 @@
 <template>
     <div class="flex flex-col flex-1 items-center">
+        <div class="flex items-center gap-2 py-2 text-white cursor-pointer duration-150 hover:text-green-500" @click="router.push({ name: 'home' });">
+            <i class="fa-solid fa-home"></i>
+            <p>Home</p>
+        </div>
         <div v-if="route.query.preview" class="text-white p-4 bg-weather-secondary w-full text-center">
             <p>You are currently viewing this city, click the "+" icon to start tracking this city</p>
         </div>

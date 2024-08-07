@@ -9,7 +9,7 @@
         <!-- <p class="py-2" v-if="!searchError && weatherapiSearchResults.length === 0 && locationSearchResults.length === 0">No results match your query, try a different term.</p> -->
         
         <template v-else=" weatherapiSearchResults.length !==0 && locationSearchResults.length !==0 ">
-          <div class="py-2 cursor-pointer" @click="previewCity(weatherapiSearchResults, locationSearchResults)">
+          <div class="px-1 py-2 cursor-pointer bg-weather-secondary" @click="previewCity(weatherapiSearchResults, locationSearchResults)">
             <h3>{{ locationSearchResults.name }}, {{ locationSearchResults.region }}, {{ locationSearchResults.country }}</h3>
             
             <!-- <h3>Localtime: {{ locationSearchResults.localtime }}</h3>
